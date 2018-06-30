@@ -13,6 +13,7 @@ class search {
 		//code
 		int N, x, t;
 		Scanner sc = new Scanner(System.in);
+		System.out.println("Enter values for test cases, size and value to be searched");
 		t = sc.nextInt();
 		N = sc.nextInt();
 		x = sc.nextInt();
